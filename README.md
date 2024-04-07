@@ -45,23 +45,23 @@ _Note: API KEYS have been removed from the project files, to avoid key misusage.
 
 ### Desktop
 
-![Desktop home](/visuals/desktop/home.png)
-![Desktop Home Searching](/visuals/desktop/home_search.png)
-![Desktop Location](/visuals/desktop/location.png)
-![Desktop Location Searching](/visuals/desktop/location_search.png)
-![Desktop Open Side Menu with no Location](/visuals/desktop/open_menu_no_location.png)
-![Desktop Open Side Menu with no Location](/visuals/desktop/open_menu_with_location.png)
+![Desktop home](https://github.com/jmalekx/Mountain-Hikers-Weather-App/blob/main/Mountain%20Hikers%20Weather%20App/visuals/desktop/home.png)
+![Desktop Home Searching](https://github.com/jmalekx/Mountain-Hikers-Weather-App/blob/main/Mountain%20Hikers%20Weather%20App/visuals/desktop/home_search.png)
+![Desktop Location](https://github.com/jmalekx/Mountain-Hikers-Weather-App/blob/main/Mountain%20Hikers%20Weather%20App/visuals/desktop/location.png)
+![Desktop Location Searching](https://github.com/jmalekx/Mountain-Hikers-Weather-App/blob/main/Mountain%20Hikers%20Weather%20App/visuals/desktop/location_search.png)
+![Desktop Open Side Menu with no Location](https://github.com/jmalekx/Mountain-Hikers-Weather-App/blob/main/Mountain%20Hikers%20Weather%20App/visuals/desktop/open_menu_no_location.png)
+![Desktop Open Side Menu with no Location](https://github.com/jmalekx/Mountain-Hikers-Weather-App/blob/main/Mountain%20Hikers%20Weather%20App/visuals/desktop/open_menu_with_location.png)
 
 ### Mobile
 
-![Mobile home](/visuals/mobile/home.png)
-![Mobile Home Searching](/visuals/mobile/home_search.png)
-![Mobile Location](/visuals/mobile/location.png)
-![Mobile Location Searching](/visuals/mobile/location_search.png)
-![Mobile Open Side Menu with no Location](/visuals/mobile/open_menu_no_location.png)
-![Mobile Open Side Menu with no Location](/visuals/mobile/open_menu_with_location.png)
+![Mobile home](https://github.com/jmalekx/Mountain-Hikers-Weather-App/blob/main/Mountain%20Hikers%20Weather%20App/visuals/mobile/home.png)
+![Mobile Home Searching](https://github.com/jmalekx/Mountain-Hikers-Weather-App/blob/main/Mountain%20Hikers%20Weather%20App/visuals/mobile/home_search.png)
+![Mobile Location](https://github.com/jmalekx/Mountain-Hikers-Weather-App/blob/main/Mountain%20Hikers%20Weather%20App/visuals/mobile/location.png)
+![Mobile Location Searching](https://github.com/jmalekx/Mountain-Hikers-Weather-App/blob/main/Mountain%20Hikers%20Weather%20App/visuals/mobile/location_search.png)
+![Mobile Open Side Menu with no Location](https://github.com/jmalekx/Mountain-Hikers-Weather-App/blob/main/Mountain%20Hikers%20Weather%20App/visuals/mobile/open_menu_no_location.png)
+![Mobile Open Side Menu with no Location](https://github.com/jmalekx/Mountain-Hikers-Weather-App/blob/main/Mountain%20Hikers%20Weather%20App/visuals/mobile/open_menu_with_location.png)
 
-## Colaborators
+## Collaborators
 
 - [Amal-Mathew204](https://github.com/Amal-Mathew204)
 - [ileniadigital](https://github.com/ileniadigital)
